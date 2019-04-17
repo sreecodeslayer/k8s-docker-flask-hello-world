@@ -1,6 +1,6 @@
 # k8s-docker-flask-hello-world
 Learning Kubernetes with Flask hello world app over Docker
-
+I use this repo as a base for many docker related image builds and stuff.
 
 ### Running server locally
 1. inside your virtual env, install requirements
