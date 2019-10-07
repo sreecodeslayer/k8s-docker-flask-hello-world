@@ -28,3 +28,4 @@ $ docker run -d -p 8000:8000 helloworld-flask-app:latest
 $ curl localhost:8000
 {"msg":"Hello world"}
 ```
+---- will be removed in next commit - testing AWS CodeBuild ----
